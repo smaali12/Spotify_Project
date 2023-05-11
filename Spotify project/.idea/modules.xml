@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpotifyMusicStreaming/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/SpotifyMusicStreaming/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spotify project.iml" filepath="$PROJECT_DIR$/.idea/Spotify project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpotifyMusicStreaming/SpotifyMusicStreaming.iml" filepath="$PROJECT_DIR$/SpotifyMusicStreaming/SpotifyMusicStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpotifyMusicStreaming/UserTrackService/UserTrackService.iml" filepath="$PROJECT_DIR$/SpotifyMusicStreaming/UserTrackService/UserTrackService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpotifyMusicStreaming/UserAuthService/course14sprint1mySql.iml" filepath="$PROJECT_DIR$/SpotifyMusicStreaming/UserAuthService/course14sprint1mySql.iml" />
+    </modules>
+  </component>
+</project>
